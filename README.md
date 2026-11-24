@@ -95,7 +95,7 @@ My work centers on system architecture, distributed systems, database optimizati
 
 ## 💼 Experience
 
-- **Senior Full-Stack Engineer — Frietty** (2025 – present): B2B SaaS products, multi-tenant architecture, auth & authorization, PostgreSQL/MongoDB optimization, Redis + BullMQ background processing, AWS & CI/CD, code reviews and mentoring.
+- **Senior Full-Stack Engineer — Frietty** (2025 – October 2026): B2B SaaS products, multi-tenant architecture, auth & authorization, PostgreSQL/MongoDB optimization, Redis + BullMQ background processing, AWS & CI/CD, code reviews and mentoring.
 - **Full-Stack Engineer — SoftJoy** (2021 – 2025): full-stack web apps with Node.js and React, REST APIs, Google Maps and Microsoft Graph integrations, real-time features with WebSockets, Firebase.
 
 **Education:** B.Sc. (2018–2022) & M.Sc. (2022–2024) in Computer Software Engineering — Taras Shevchenko National University of Lviv
