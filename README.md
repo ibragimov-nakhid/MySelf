@@ -1,3 +1,2 @@
 # MySelf
 
-👋 About Me
